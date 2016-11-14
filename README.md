@@ -54,3 +54,12 @@ Running all tests is simply
 ```bash
 make test
 ```
+## Dependencies
+
+Please fill out this README with a description of your public interface by Wednesday 11/16. Use this format:
+
+```c++
+    /* Throw it on the ground */
+    uint32_t throw(Cake* cake, Ground* ground);
+```
+Also, make a list of the parts that your project will depend on.
